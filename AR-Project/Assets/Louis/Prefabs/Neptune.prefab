@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 2931370859801308248}
   - component: {fileID: 859081756384958699}
   - component: {fileID: 1170478051418959973}
+  - component: {fileID: 8724896813881423724}
   m_Layer: 0
   m_Name: Neptune
   m_TagString: Untagged
@@ -105,3 +106,15 @@ SphereCollider:
   serializedVersion: 3
   m_Radius: 0.5
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &8724896813881423724
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3507157696993881540}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3b268fa6abfd814d848010a6c91d553, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
